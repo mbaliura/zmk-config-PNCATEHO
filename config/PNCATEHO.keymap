@@ -22,7 +22,7 @@
             bindings = <
 &kp A  &kp B  &kp C  &kp D
 &kp E  &kp F  &kp G  &kp H
-                     &mo 1  &mo 2
+                     &lt 1 ESC &lt 2 ENTER
             >;
         };
 
